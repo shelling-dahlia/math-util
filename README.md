@@ -10,7 +10,7 @@
 
 ### Connect me via:
 [My facebook](https://facebook.com/ltnhu.shelling)  
-[My email](mailto: tamnhulam94ls@gmail.com)
+[My email](mailto: tamnhu.dahlia@gmail.com)
 
 ©2021 shelling.lam
 
