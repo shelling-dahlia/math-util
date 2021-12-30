@@ -1,6 +1,6 @@
 ## Welcome to Math Utility repository. This repo offers various math methods those used as a helper for your project.
 
-[![MathUtil project | CI process included | © 2021 by shelling-dahlia](https://github.com/shelling-dalia/math-util/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/shelling-dahlia/math-util/actions/workflows/mathutil-ci-actions.yml)
+[![MathUtil project | CI process included | © 2021 by shelling-dahlia](https://github.com/shelling94/math-util/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/shelling94/math-util/actions/workflows/mathutil-ci-actions.yml)
 
 ### *_You will fine in this repo the following stuff:_*
 * .gitignore file itself to demonstrate how to ask the Git tool to upload a file or not
